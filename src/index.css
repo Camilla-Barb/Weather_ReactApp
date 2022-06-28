@@ -28,6 +28,7 @@ main{
 .search-box{
   width: 100%;
   margin: 0 0 75px;
+  border-radius: 0px 0px 16px 16px;
 }
 
 .search_box, .search-bar{
